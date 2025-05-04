@@ -92,4 +92,4 @@ streamlit run app.py
 
 ## Видео-демонстрация 
 [Ссылка на видео](video/demo.mp4) или встроенное видео ниже: 
-<video src="video/demo.mp4" controls width="100%"></video> 
+<video src="https://github.com/RailRGO/predictive_maintenance_project/blob/main/video/demo.mp4" controls width="100%"></video>
